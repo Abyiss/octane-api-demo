@@ -4,7 +4,7 @@ This repository contains a collection of cURL requests for interacting with the 
 
 Please watch our Octane API Demo Video to see how to use the cURL requests in this repository.
 
-[![Octane API Demo Video](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://youtu.be/VcQC2a1n8Wg)
+[![Octane API Demo Video](https://img.youtube.com/vi/VcQC2a1n8Wg/0.jpg)](https://youtu.be/VcQC2a1n8Wg)
 
 ## Prerequisites
 
